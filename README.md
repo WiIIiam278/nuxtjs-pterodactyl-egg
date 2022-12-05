@@ -5,4 +5,4 @@ A [Pterodactyl](https://pterodactyl.io/) egg for deploying [Nuxt.js v3](https://
 
 This will clone a git repository, build the nuxt application to `.output/` and run the server from the generated `output/server/index.mjs` file.
 
-See https://nuxt.com/docs/getting-started/installation for more information.
+See https://nuxt.com/docs/getting-started/installation for more information. Based on [the node.js egg by pasrkervcp](https://github.com/parkervcp/eggs). Licensed under MIT.
